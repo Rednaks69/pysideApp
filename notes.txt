@@ -1,0 +1,14 @@
+prod : nv dossier , consulter, recherche dossier par prod
+
+tout les dep on un nv dossier
+
+ref dossier -> mission ref aussi 
+utili: admin, user (supr, modif, facturation)
+*) recherche: par ref, par date
+
+*) dossier : date, heurec,nature, perso, equipement,  facturatin, charge,
+   |--->charge: tableau, founisseur(db), designation, montant (ht) , tva(taux , montant), ttc, 
+   |--->facturation: client (db)
+   |--->marge(sans confirmation)
+*) autres : mission, bande de commande, devis,
+            mission : ref dossier, dossier sans fac et charge;

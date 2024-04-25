@@ -1,0 +1,10 @@
+window-bg = #F9F7F7
+window-bg-inset= #DBE2EF
+button-press = #3F72AF
+top-layer= #112D4E
+
+accent-color 
+color_0= #E4E4F9
+color_1= #F1BC19
+color_2= #56CF96
+color_3 = #5C7CFA
